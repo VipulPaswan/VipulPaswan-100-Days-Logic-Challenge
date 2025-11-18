@@ -1,0 +1,10 @@
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.env
+dist/
+build/
+.DS_Store
+Day_08(CURD_project)/.git/
