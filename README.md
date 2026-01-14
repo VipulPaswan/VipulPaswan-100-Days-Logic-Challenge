@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/100%20DAYS-LOGIC%20CHALLENGE-blue?style=for-the-badge" />
   <br>
-  <img src="https://img.shields.io/badge/Progress-Day%2017-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Progress-Day%2074-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Language-JavaScript%20%7C%20Python-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Logic%20%7C%20WebDev-green?style=flat-square" />
 </p>
