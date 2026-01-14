@@ -1,0 +1,15 @@
+{
+    "name":"KL Rahul",
+    "age":32,
+    "is_active":true,
+    "client":{
+        "id":"kl01",
+        "username":"rahul01"
+    },
+    "score":[199,50,100,97,85]
+
+}
+
+
+
+

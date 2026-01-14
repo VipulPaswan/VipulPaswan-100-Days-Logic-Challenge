@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<employee 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="employee.xsd">
+
+    <employee status="active">
+        <name>Vipul</name>
+        <age>23</age>
+        <gender>Male</gender>
+        <email>vipul123@gmail.com</email>
+        <phone>9985652142</phone>
+        <address>GKP</address>
+    </employee>
+
+    <employee status="inactive">
+        <name>KL Rahul</name>
+        <age>32</age>
+        <gender>Male</gender>
+        <email>rahul01@gmail.com</email>
+        <phone>9985652142</phone>
+        <address>BLG</address>
+    </employee>
+
+</employee>
